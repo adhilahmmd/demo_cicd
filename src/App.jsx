@@ -14,7 +14,7 @@ function App() {
           <div className="glass-container">
             <div className="profile-content">
               <span className="badge">Personal Info</span>
-              <h1 className="name">Antigravity</h1>
+              <h1 className="name">Adhil Ahammed PT</h1>
               <p className="age-label">Age</p>
               <div className="age-display">
                 <span className="age-number">24</span>
