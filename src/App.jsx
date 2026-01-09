@@ -17,7 +17,7 @@ function App() {
               <h1 className="name">Adhil Ahammed PT</h1>
               <p className="age-label">Age</p>
               <div className="age-display">
-                <span className="age-number">24</span>
+                <span className="age-number">23</span>
                 <span className="age-suffix">Years Old</span>
               </div>
               <div className="divider"></div>
