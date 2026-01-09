@@ -13,7 +13,7 @@ function App() {
         <div className="profile-card">
           <div className="glass-container">
             <div className="profile-content">
-              <span className="badge">Personal Info</span>
+              <span className="badge">Personal Information</span>
               <h1 className="name">Adhil Ahammed PT</h1>
               <p className="age-label">Age</p>
               <div className="age-display">
